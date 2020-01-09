@@ -1,0 +1,7 @@
+{
+    "name": "kraifpatrik/yyc-overwrite-gml",
+    "description": "GML side of YYC Overwrite",
+    "license": "MIT",
+    "homepage": "https://github.com/kraifpatrik/yyc-overwrite-gml",
+    "yyp": "yyc-overwrite-gml.yyp"
+}
