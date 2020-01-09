@@ -1,7 +1,7 @@
 # YYC Overwrite GML
 > GML side of YYC Overwrite
 
-[![License](https://github.com/kraifpatrik/yyc-overwrite-gml)](LICENSE)
+[![License](https://img.shields.io/github/license/kraifpatrik/yyc-overwrite-gml)](LICENSE)
 
 # Installation
 Using Catalyst, the open-source package manager for GameMaker Studio 2:
