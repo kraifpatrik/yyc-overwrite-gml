@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "53666abc-ea62-40ae-9511-53e9cc759f0e",
+            "Value": {
+                "id": "84aaab8a-e928-4531-9325-d1f608987f29",
+                "resourcePath": "scripts\\yyc_get_cpu_count\\yyc_get_cpu_count.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5785c788-ce90-400b-a6c7-673e5f5d7b57",
             "Value": {
                 "id": "1507015f-d84c-4862-8e80-e4762b52643a",
@@ -180,6 +188,14 @@
                 "id": "0a057881-c3fd-486f-9544-dba999501da3",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "9ecbf434-2361-4991-902e-3377bf9e9e57",
+            "Value": {
+                "id": "ebdf27db-a059-4d3b-ba13-a099533bbff5",
+                "resourcePath": "scripts\\yyc_is_overwrite\\yyc_is_overwrite.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -302,6 +318,8 @@
         "750b138c-9e02-477b-a77a-5234fc8081c8",
         "7c8a678b-c6dc-4fa8-a321-4769e10f52cb",
         "a4616529-9890-48f0-8207-22b124f729ed",
+        "53666abc-ea62-40ae-9511-53e9cc759f0e",
+        "9ecbf434-2361-4991-902e-3377bf9e9e57",
         "663cbe3c-aefc-43c4-a1e6-30186b32f1a2"
     ],
     "tutorial": ""
