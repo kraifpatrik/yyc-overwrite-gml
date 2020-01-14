@@ -11,4 +11,4 @@ catalyst require kraifpatrik/yyc-overwrite-gml
 ```
 
 # Related
-This library is part of project YYC Overwire. For more information, please visit the project's repository: https://github.com/kraifpatrik/yyc-overwrite
+This library is part of project YYC Overwrite. For more information, please visit the project's repository: https://github.com/kraifpatrik/yyc-overwrite
